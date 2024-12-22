@@ -22,7 +22,7 @@ jobs:
       matrix:
         include:
           - userName: liudi222
-            repoName: TVBoxOS
+            repoName: xiaoguohezi
             branchName: main
           - userName: takagen99
             repoName: Box
